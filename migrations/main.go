@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/go-pg/migrations/v8"
 	"os"
 	"react-gin-blog/internal/database"
 	"react-gin-blog/internal/store"
